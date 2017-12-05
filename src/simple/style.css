@@ -1,0 +1,6 @@
+#rootPane{
+    /*-fx-background-image: url("backgroung.jpg");*/
+	-fx-background-color: linear-gradient(#b3c6ff, #b3ffd9);
+    -fx-font-family: 'Reenie Beanie', cursive;
+}
+
